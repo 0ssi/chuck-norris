@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./textured-backgrounds-for-websites-11553984842hbvetqjkg8.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+    margin: 0;
+}
+
+
+p {
+
+margin: 50px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+    text-shadow: 0.1px 0.1px 1px grey;
+  
+}
+
+
+#card {
+
+    box-shadow: 15px 15px 100px black;
+    border-radius: 20px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 500px;
+    background-color: aliceblue;
+}
